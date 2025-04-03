@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+![Ignite Feed](images/ignitefeed.png)
